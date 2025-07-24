@@ -1,7 +1,4 @@
 linea1
-<<<<<<< HEAD
-=======
 linea2
 linea3
 linea4 
->>>>>>> parent of 27aa68c (agregando linea5)
